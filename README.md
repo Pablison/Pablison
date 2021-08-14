@@ -8,11 +8,11 @@
 
 <div align="center">
   <a href="https://github.com/Pablison">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablison&show_icons"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablison&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
  
 
   <a href="https://github.com/Pablison">
-  <img height="250em"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true"/>
+  <img height="250em"  src="https://github-readme-stats.vercel.app/api?username=Pablison&theme=merko&show_icons=true"/>
 </div>
  
 
