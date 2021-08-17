@@ -1,4 +1,4 @@
-## Olá mundo! Bem vindo ao meu perfil 😉!
+## Olá! Bem vindo ao meu perfil 😉!
 <!--<img align="right" src="https://komarev.com/ghpvc/?username=Pablison&color=green" alt="Pablison" />-->
 - 🎓 Estudante de Sistemas de Informação <br>
 - 💻 Trabalhando como Estagiário de T.I
