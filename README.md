@@ -1,7 +1,7 @@
 ## Olá! Bem vindo ao meu perfil 😉!
 <!--<img align="right" src="https://komarev.com/ghpvc/?username=Pablison&color=green" alt="Pablison" />-->
-- 🎓 Estudante de Sistemas de Informação <br>
-- 💻 Analista de Sistemas I
+- 🎓 Bacharel em Sistemas de Informação <br>
+- 💻 Desenvolvedor Web
 - 👨‍💻 Trabalhando com desenvolvimento em PHP - Laravel
 
 ##
