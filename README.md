@@ -3,6 +3,7 @@
 - 🎓 Bacharel em Sistemas de Informação <br>
 - 💻 Desenvolvedor Web
 - 👨‍💻 Trabalhando com desenvolvimento em PHP - Laravel
+- 🌎 Em intercâmbio na Irlanda, aprendendo Inglês
 
 ##
 
