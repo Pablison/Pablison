@@ -41,10 +41,10 @@ Atuando com Protheus (ADVPL) e construindo soluções modernas com Next.js.
 
 <div align="center">
   <a href="https://github.com/Pablison">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablison&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablison&theme=merko&show_icons=true&cache_seconds=3600"/>
 
   <a href="https://github.com/Pablison">
-  <img height="250em"  src="https://github-readme-stats.vercel.app/api?username=Pablison&theme=merko&show_icons=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Pablison&theme=merko&show_icons=true&cache_seconds=3600"/>
 </div>
 
 
